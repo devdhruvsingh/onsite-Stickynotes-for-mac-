@@ -5,7 +5,11 @@
   "description": "A simple sticky note popup.",
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Sticky Note"
+    "default_title": "Sticky Note",
+    "default_icon": "icon-1.png"
+  },
+  "icons": {
+    "128": "icon-1.png"
   },
   "permissions": ["storage"]
 }
