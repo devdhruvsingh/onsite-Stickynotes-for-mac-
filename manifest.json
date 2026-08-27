@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Sticky Note",
+  "version": "1.0",
+  "description": "A simple sticky note popup.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Sticky Note"
+  },
+  "permissions": ["storage"]
+}
